@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sapir</h1>
-<h3 align="center">Junior developer and graduate of Computer Science</h3>
+<h3 align="center">Junior developer and Computer Science graduate</h3>
 
 - 🔭 I’m currently working on [Find Hotels](https://github.com/sapirMal/Find-Hotels)
 
