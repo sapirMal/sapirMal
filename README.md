@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Redux and Python**
 
-- 👨‍💻 All of my projects are available at [https://sapir14293.journoportfolio.com/](https://sapir14293.journoportfolio.com/)
+- 👨‍💻 All of my react projects are available at [my portfolio](https://sapir14293.journoportfolio.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
