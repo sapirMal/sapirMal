@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sapir</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
-- 🔭 I’m currently working on [Find Hotels](https://github.com/sapirMal/Find-Hotels) (react-app)
+- 🔭 I’m currently working on [weblog](https://github.com/sapirMal/weblog) (ReactJS App)
 
-- 🌱 I’m currently learning **React, Redux and Python**
+- 🌱 I’m currently learning **React, Redux and Node.js**
 
 - 👨‍💻 All of my react projects are available at [my portfolio](https://sapir14293.journoportfolio.com/)
 
