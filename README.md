@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sapir</h1>
 <h3 align="center">Junior developer and Computer Science graduate</h3>
 
-- 🔭 I’m currently working on [weblog](https://github.com/sapirMal/weblog) (ReactJS App)
+- 🔭 I’m currently working on [social media](https://github.com/sapirMal/Social-Media) (ReactJS App)
 
 - 🌱 I’m currently learning **React, Redux and Node.js**
 
